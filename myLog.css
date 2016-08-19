@@ -1,0 +1,37 @@
+.date{
+	text-transform: uppercase;
+	color: #3498db;
+	letter-spacing: 5px;
+}
+
+.title{
+ 	color: #2c3e50;
+ 	font-weight: 700;
+}
+
+div{
+	font-weight: 700;
+	padding-bottom:15px;
+	padding-top: 15px; 
+}
+
+body{
+	border: solid 25px #bdc3c7;
+	margin:2% 15%;
+	font-family:source sans pro;
+	padding: 25px;
+	/* here i used simply margin property, another way to do this; max-width 700px
+	width; 80%*/ 
+}
+
+.first{
+	border-left: solid #bdc3c7 7px;
+	padding-left: 7px;
+	padding-top: 0;
+	padding-bottom:0;
+}
+
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
